@@ -13,3 +13,6 @@ Ensuite en utilisant cette documentation :
     <img src="Images/montage.jpg" width="1200">
   
   - Mes tests ont malheureusement été interrompus par une surtension qui a cassé la carte arduino ainsi que les ports usb de mon pc.
+## Objectifs pour la semaine prochaine :
+
+Lors de la prochaine séance l'objectif principal sera 
