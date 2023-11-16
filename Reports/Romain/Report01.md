@@ -8,3 +8,5 @@ Ensuite en utilisant cette documentation :
   allumer le moteur et le faire tourner
 
   <img src="Images/Schéma.png" width="300">
+
+  - Comme notre ECS ne correspond pas à 100% à celui èdu schéma, j'ai du tester plusieurs configuration
