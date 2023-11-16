@@ -1,4 +1,4 @@
-# **Séance 1* *
+# **Séance 1**
 ## *14-11-2023* 
 ## Travail réalisé : 
  
