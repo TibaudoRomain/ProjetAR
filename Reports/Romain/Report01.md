@@ -4,7 +4,7 @@
 Lors de cette première séance, je me suis occupé de tester les moteurs que nous venions de recevoir. Pour cela, j'ai commencé par rechercher de la documentation sur le branchement des moteurs brushless. 
 En utilisant ensuite cette documentation :
 
-  -J'ai cherché comment brancher les ESC et les moteurs sur l'Arduino et je m'en suis servi pour allumer le moteur et le faire tourner.
+  - J'ai cherché comment brancher les ESC et les moteurs sur l'Arduino et je m'en suis servi pour allumer le moteur et le faire tourner.
 
   <img src="Images/Schéma.png" width="300">
 
