@@ -15,4 +15,4 @@ Ensuite en utilisant cette documentation :
   - Mes tests ont malheureusement été interrompus par une surtension qui a cassé la carte arduino ainsi que les ports usb de mon pc.
 ## Objectifs pour la semaine prochaine :
 
-Lors de la prochaine séance l'objectif principal sera 
+Lors de la prochaine séance l'objectif principal sera de commencé à coder des fonctions basiques qui agissent sur les moteurs et permettront de faire marcher les moteurs choisis avec une vitesse en entré.
