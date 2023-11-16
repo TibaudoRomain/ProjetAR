@@ -15,6 +15,7 @@ Xavier nous a conseillé de lire un blog traitant l’impression3D de modèle cr
 
 Créer une boîte étanche représente un défi de taille, avec tous les branchements qu’on devra faire passer, le fait qu'elle doit pouvoir s’ouvrir, la tâche n'est pas des plus aisés.
 Il faut tout d’abord prendre en compte la force de pression qui sera exercé sur notre boîte, afin de terminer l’épaisseur des couches d’impression requit. 
+
 ![](https://blog.prusa3d.com/wp-content/uploads/2021/07/P7200021-1024x683.jpg)
 Ensuite il faut déterminer le nombre et la taille de troue que notre boite doit avoir afin de les rendre étanche à leur tour, ensuite on doit garantir l’étanchéité resettera la même après une ouverture de la boite.
 
