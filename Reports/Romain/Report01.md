@@ -8,7 +8,7 @@ Ensuite en utilisant cette documentation :
 
   <img src="Images/Schéma.png" width="300">
 
-  - Comme notre ECS ne correspond pas à 100% à celui èdu schéma, j'ai du tester plusieurs configuration qui se sont révélées toutes bonnes. Au final il s'est avéré que l'ECS acheté permet d'intervertir les câbles qui le relient au moteur.
+  - Comme notre ECS ne correspond pas à 100% à celui èdu schéma, j'ai dû tester plusieurs configuration qui se sont révélées toutes bonnes. Au final il s'est avéré que l'ECS acheté permet d'intervertir les câbles qui le relient au moteur.
 
     <img src="Images/montage.jpg" width="1200">
   
