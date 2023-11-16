@@ -5,6 +5,7 @@
 Pour cette première séance, on a reçue les premiers composants de notre Projet : 
 -	Moteur brushless 
 -	Esc 
+
 Personnellement, je me suis concentré sur la coque de notre robot, plus spécifiquement, sur l’étanchéité de la boîte qui servira à abriter les composants électroniques de notre robot. 
 Xavier nous a conseillé de lire un blog traitant l’impression3D de modèle creux et étanche.
 
