@@ -10,4 +10,4 @@ J'ai ensuite créer un fichier .ino dans lequel j'ai implémenté les fonctions 
 
 Après m'être occupé de créer ce début de programme, j'ai discuté avec mon binôme des dimensions de la boîte étanche qui servira à maintenir les cartes électroniques au sec ainsi que de la façon dont on allait attacher les composants qui seront à l'extèrieur de la boîte.
 
-On a finalement choisi de partir sur un cylindre en plexiglass avec des bouchons étanches d'une dimension adaptée trouvés sur internet
+On a finalement choisi de partir sur un cylindre en plexiglass avec des bouchons étanches d'une dimension adaptée trouvés sur internet.
