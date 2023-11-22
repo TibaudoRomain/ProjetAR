@@ -8,7 +8,9 @@ Ainsi, un tube en plexiglas représente la solution optimale. Ce tube d'un diam�
 En ce qui concerne les câbles, nous prévoyons de les relier tous ensemble et de les envelopper dans un tube flexible pour les joindre à l'un des couvercles de notre boîte. J'ai donc recherché le matériel dont nous avons besoin afin de passer commande le plus rapidement possible. Ensuite, j'ai modélisé une solution pour fixer notre tube à la coque de notre robot extérieur.
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWVFg3bTXzzFX2P4eeJvNprMk_y_tqYPhuQ&usqp=CAU)
-Ces fixations serviront a bloquer le tube dans la coque afin de ne pas abimer tout ce qu il y a 
+
+
+Ces fixations serviront à bloquer le tube dans la coque afin de ne pas endommager tout ce qui se trouve à l'intérieur du tube.
 
 
 La modélisation de toutes les pièces de fixation est presque terminée. Il ne me reste plus qu'à attendre de recevoir le tube afin de prendre les mesures de dernière minute et d'imprimer toutes les fixations.
