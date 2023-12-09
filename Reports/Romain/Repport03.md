@@ -3,6 +3,7 @@
 Lors de cette scéance j'ai commencé à travailler sur la jetson nano qui va servir à calculer et à donner les consignes de vitesse à la carte Arduino.
 
 Dans un premier temps, dans l'objectif de tester si mon programme fonctionne pour contrôler plusieurs moteurs en même temps, j'ai effectué le montage suivant :
+
 <img src="Images/montageS3.jpg" width="300">
 
 Et ajouter le code du fichier "CodeS3", pour ensuite effectuer des tests pour contrôler plusieurs moteurs en même temps.
