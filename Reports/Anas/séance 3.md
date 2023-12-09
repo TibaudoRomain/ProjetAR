@@ -5,5 +5,5 @@
 
 Pour la séance d'aujourdhui, je me suis penché sur la modelisation de la solution de fixation de notre tube de plexiglass a notre coque exterieur.
 
- <img src="modelisation1.png" width="300">
- 
+![](Reports/Anas/Images/solution de fixation.jpg)
+
