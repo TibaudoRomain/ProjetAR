@@ -7,7 +7,7 @@ Pour la séance d'aujourd'hui, je me suis penché sur la modélisation de la sol
 
 ![](https://raw.githubusercontent.com/TibaudoRomain/ProjetAR/main/Reports/Anas/Images/modelisation1.png)
 
-Je me suis ensuite penché sur la problématique de relier notre pièce à la coque. J'ai opté pour des vis qui relieront la coque à notre pièce.
+Je me suis ensuite penché sur la problématique de relier notre pièce à la coque. J'ai opté pour des vis qui relieront la coque à notre pièce. J'ai donc identifié le de vis qu'il nous faudra, puis j'ai coupé les vis à la taille idéale et enfin, j'ai limé les extrémités des vis.
 
 ![](https://raw.githubusercontent.com/TibaudoRomain/ProjetAR/main/Reports/Anas/Images/solution%20de%20fixation.jpg)
 
