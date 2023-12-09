@@ -1,0 +1,52 @@
+#include <Servo.h>
+
+//**************************************************//
+// Définition des entrées/sorties de l'Arduino Uno //
+//**************************************************//
+#define pinLecturePotentiometre1   A0      // [Entrée] Pour mesure de la tension du point milieu du premier potentiomètre de commande
+#define pinLecturePotentiometre2   A1      // [Entrée] Pour mesure de la tension du point milieu du deuxième potentiomètre de commande
+
+#define moteur1             9       
+#define moteur2             3
+
+//***************************************************//
+// Définition de paramètres généraux de ce programme //
+//***************************************************//
+#define dureeMinimaleImpulsionCommandeESC     1000        // La durée minimale pour une impulsion est de 1000 µs, soit 1 ms (comme pour un servomoteur, en fait)
+#define dureeMaximaleImpulsionCommandeESC     2000        // La durée maximale pour une impulsion est de 2000 µs, soit 2 ms (comme pour un servomoteur, idem donc)
+
+//************************//
+// Variables du programme //
+//************************//
+int dureeImpulsionCommandeESC1;
+int dureeImpulsionCommandeESC2;            // Valeur exprimée en microseconde, qui contiendra la durée de l'impulsion à envoyer à l'ESC
+int pot1;           // Variable 16 bits où sera stockée la lecture 10 bits (0..1023) de l'ADC, du potentiomètre 1
+int pot2;           // Variable 16 bits où sera stockée la lecture 10 bits (0..1023) de l'ADC, du potentiomètre 2
+
+// Instanciation de la librairie "servo", pour piloter le module ESC
+Servo moduleESC1;
+Servo moduleESC2;
+
+void setup() {
+  pinMode(moteur1, OUTPUT); 
+  pinMode(moteur2, OUTPUT); 
+  moduleESC1.attach(moteur1, dureeMinimaleImpulsionCommandeESC, dureeMaximaleImpulsionCommandeESC);
+  moduleESC2.attach(moteur2, dureeMinimaleImpulsionCommandeESC, dureeMaximaleImpulsionCommandeESC);
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  pot1 = analogRead(pinLecturePotentiometre1);
+  pot2 = analogRead(pinLecturePotentiometre2);
+  // Conversion de cette valeur 0..1023, en une valeur comprise entre duréeMin et duréeMax de l'impulsion à produire
+  dureeImpulsionCommandeESC1 = map(pot1, 0, 1023, dureeMinimaleImpulsionCommandeESC, dureeMaximaleImpulsionCommandeESC);
+  dureeImpulsionCommandeESC2 = map(pot2, 0, 1023, dureeMinimaleImpulsionCommandeESC, dureeMaximaleImpulsionCommandeESC);
+
+  // Envoi du signal de commande à l'ESC
+  moduleESC1.writeMicroseconds(dureeImpulsionCommandeESC1);
+  moduleESC2.writeMicroseconds(dureeImpulsionCommandeESC2);
+
+  delay(100);
+
+}
