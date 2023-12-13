@@ -9,9 +9,10 @@ Ensuite j'ai testé le programme exemple de l'IDE pour la MPU 6050 nommé MPU605
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/6cba63ab-3d56-46d0-9116-43b6be100d2b)
 
-N'ayant pas trouvé la solution, j'ai testé d'autres programme dont celui-ci :
+N'ayant pas trouvé la solution, j'ai testé d'autres programme dont celui ci-dessous qui m'a renvoyer trois angles nuls qui ne changeaient pas peu importe comment je déplaçais la centrale inertielle.
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/2902d326-99ac-4d36-b74f-0004519b0ba7)
 
+## 
 
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/6fe10907-ab8b-4560-be93-ce5f38913413)
+
