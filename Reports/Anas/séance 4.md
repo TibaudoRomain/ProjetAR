@@ -3,21 +3,23 @@
 
 ## Travail réalisé :
 
-Aujourd’hui j ai commencer la séance en discutant avec xavier à propos d une façon de rendre nos soudure étanche afin de sécuriser nos fil électrique qui vont du tube au composants extérieurs (moteur capteur etc).elle consiste à injecter de la colle à l aide d un pistolet à colle dans un moule qui contient les file une fois la colle refroidi le fil devient étanche.
-
-Ensuite j ai lancer l impression de la pièce de la séance dernière.
+Aujourd’hui, j'ai commencé la séance en discutant avec Xavier à propos d'une façon de rendre nos soudures étanches afin de sécuriser nos fils électriques qui vont du tube aux composants extérieurs (moteurs, capteurs, etc.). Elle consiste à injecter de la colle à l'aide d'un pistolet à colle dans un moule qui contient les fils. Une fois la colle refroidie, le fil devient étanche.
+Ensuite, j'ai lancé l'impression de la pièce de la séance précédente.
 ![](https://cdn.discordapp.com/attachments/721511441399545919/1184516275012120666/20231213_133451.jpg)
 
-J ai ensuite modéliser  la première partir de notre coque extérieur.  Qui est un bras qui relie la fixation du tubes. Cette main sera fixer avec la pièce de fixation à l aide d une vis.
-
+J'ai ensuite modélisé la première partie de notre coque extérieure, qui est un bras reliant la fixation du tube. Cette pièce sera fixée avec la pièce de fixation à l'aide d'une vis.
 ![](https://raw.githubusercontent.com/TibaudoRomain/ProjetAR/main/Reports/Anas/Images/modélisation%20du%20bras.png)
 
-Puis elle sera fixer au reste de la coque à l aide d un écrou piéger à l intérieur du bras . Elle sera ainsi visser au reste .
+Puis, elle sera fixée au reste de la coque à l'aide d'un écrou piège à l'intérieur du bras. Elle sera ainsi vissée au reste.
 
 ![](https://raw.githubusercontent.com/TibaudoRomain/ProjetAR/main/Reports/Anas/Images/bras%20avec%20vis.jpg)
 
-Pour l instant j ai imprimer 3 de ses bras et j ai fixer les écrous à l intérieur.
+Pour l'instant, j'ai imprimé trois de ces bras et j'ai fixé les écrous à l'intérieur
 
 ![](https://raw.githubusercontent.com/TibaudoRomain/ProjetAR/main/Reports/Anas/Images/bras%20imprimé%20avec%20ecrou.jpg)
 
-J ai donc récupérer les vis qu il me faut, fait les mesure et couper les vis à la taille voulu. J ai enfin viser tous les vis dans les trou des bras imprimer afin de les tarauder.
+J'ai donc récupéré les vis dont j'ai besoin, pris les mesures et coupé les vis à la taille voulue. Ensuite, j'ai vissé toutes les vis dans les trous des bras imprimés afin de les tarauder.
+
+Objectifs pour la séance prochaine : 
+-       avancer sur le modele de la coque exterieur
+
