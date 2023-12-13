@@ -14,6 +14,6 @@ N'ayant pas trouvé la solution, j'ai testé d'autres programme dont celui ci-de
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/2902d326-99ac-4d36-b74f-0004519b0ba7)
 
 ## Objectifs pour la semaine prochaine :
-
+Pour la prochaine scéance, l'objectif sera de faire marcher une centrale inertielle et de commencé à coder des communications entre l'arduino et la jetson.
 
 
