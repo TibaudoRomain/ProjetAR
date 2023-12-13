@@ -12,3 +12,6 @@ Ensuite j'ai testé le programme exemple de l'IDE pour la MPU 6050 nommé MPU605
 N'ayant pas trouvé la solution, j'ai testé d'autres programme dont celui-ci :
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/2902d326-99ac-4d36-b74f-0004519b0ba7)
+
+
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/6fe10907-ab8b-4560-be93-ce5f38913413)
