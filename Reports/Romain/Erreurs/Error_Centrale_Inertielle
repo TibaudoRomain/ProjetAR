@@ -1,0 +1,347 @@
+In file included from C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:3:0:
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:107:0: warning: "MPU6050_DMP_CODE_SIZE" redefined
+ #define MPU6050_DMP_CODE_SIZE       1962    // dmpMemory[]
+ 
+In file included from C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:2:0:
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:116:0: note: this is the location of the previous definition
+ #define MPU6050_DMP_CODE_SIZE       1929    // dmpMemory[]
+ 
+In file included from C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:3:0:
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:108:0: warning: "MPU6050_DMP_CONFIG_SIZE" redefined
+ #define MPU6050_DMP_CONFIG_SIZE     232     // dmpConfig[]
+ 
+In file included from C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:2:0:
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:117:0: note: this is the location of the previous definition
+ #define MPU6050_DMP_CONFIG_SIZE     192     // dmpConfig[]
+ 
+In file included from C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:3:0:
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:109:0: warning: "MPU6050_DMP_UPDATES_SIZE" redefined
+ #define MPU6050_DMP_UPDATES_SIZE    140     // dmpUpdates[]
+ 
+In file included from C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:2:0:
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:118:0: note: this is the location of the previous definition
+ #define MPU6050_DMP_UPDATES_SIZE    47      // dmpUpdates[]
+ 
+In file included from C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:2:0:
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:325:32: error: no 'uint8_t MPU6050::dmpInitialize()' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpInitialize() {
+                                ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:550:34: error: no 'bool MPU6050::dmpPacketAvailable()' member function declared in class 'MPU6050'
+ bool MPU6050::dmpPacketAvailable() {
+                                  ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:577:66: error: no 'uint8_t MPU6050::dmpGetAccel(int32_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetAccel(int32_t *data, const uint8_t* packet) {
+                                                                  ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:585:66: error: no 'uint8_t MPU6050::dmpGetAccel(int16_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetAccel(int16_t *data, const uint8_t* packet) {
+                                                                  ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:593:67: error: no 'uint8_t MPU6050::dmpGetAccel(VectorInt16*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetAccel(VectorInt16 *v, const uint8_t* packet) {
+                                                                   ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:601:71: error: no 'uint8_t MPU6050::dmpGetQuaternion(int32_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetQuaternion(int32_t *data, const uint8_t* packet) {
+                                                                       ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:610:71: error: no 'uint8_t MPU6050::dmpGetQuaternion(int16_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetQuaternion(int16_t *data, const uint8_t* packet) {
+                                                                       ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:619:71: error: no 'uint8_t MPU6050::dmpGetQuaternion(Quaternion*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetQuaternion(Quaternion *q, const uint8_t* packet) {
+                                                                       ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:634:65: error: no 'uint8_t MPU6050::dmpGetGyro(int32_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetGyro(int32_t *data, const uint8_t* packet) {
+                                                                 ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:642:65: error: no 'uint8_t MPU6050::dmpGetGyro(int16_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetGyro(int16_t *data, const uint8_t* packet) {
+                                                                 ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:652:91: error: no 'uint8_t MPU6050::dmpGetLinearAccel(VectorInt16*, VectorInt16*, VectorFloat*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetLinearAccel(VectorInt16 *v, VectorInt16 *vRaw, VectorFloat *gravity) {
+                                                                                           ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:660:92: error: no 'uint8_t MPU6050::dmpGetLinearAccelInWorld(VectorInt16*, VectorInt16*, Quaternion*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetLinearAccelInWorld(VectorInt16 *v, VectorInt16 *vReal, Quaternion *q) {
+                                                                                            ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:672:61: error: no 'uint8_t MPU6050::dmpGetGravity(VectorFloat*, Quaternion*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetGravity(VectorFloat *v, Quaternion *q) {
+                                                             ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:683:56: error: no 'uint8_t MPU6050::dmpGetEuler(float*, Quaternion*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetEuler(float *data, Quaternion *q) {
+                                                        ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:689:85: error: no 'uint8_t MPU6050::dmpGetYawPitchRoll(float*, Quaternion*, VectorFloat*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetYawPitchRoll(float *data, Quaternion *q, VectorFloat *gravity) {
+                                                                                     ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:702:67: error: no 'uint8_t MPU6050::dmpProcessFIFOPacket(const unsigned char*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpProcessFIFOPacket(const unsigned char *dmpData) {
+                                                                   ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:712:84: error: no 'uint8_t MPU6050::dmpReadAndProcessFIFOPacket(uint8_t, uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpReadAndProcessFIFOPacket(uint8_t numPackets, uint8_t *processed) {
+                                                                                    ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_6Axis_MotionApps20.h:737:40: error: no 'uint16_t MPU6050::dmpGetFIFOPacketSize()' member function declared in class 'MPU6050'
+ uint16_t MPU6050::dmpGetFIFOPacketSize() {
+                                        ^
+In file included from C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:3:0:
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:124:7: error: 'prog_uchar' does not name a type; did you mean 'getchar'?
+ const prog_uchar dmpMemory[MPU6050_DMP_CODE_SIZE] PROGMEM = {
+       ^~~~~~~~~~
+       getchar
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:265:7: error: 'prog_uchar' does not name a type; did you mean 'getchar'?
+ const prog_uchar dmpConfig[MPU6050_DMP_CONFIG_SIZE] PROGMEM = {
+       ^~~~~~~~~~
+       getchar
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:315:7: error: 'prog_uchar' does not name a type; did you mean 'getchar'?
+ const prog_uchar dmpUpdates[MPU6050_DMP_UPDATES_SIZE] PROGMEM = {
+       ^~~~~~~~~~
+       getchar
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:337:32: error: no 'uint8_t MPU6050::dmpInitialize()' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpInitialize() {
+                                ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:653:34: error: no 'bool MPU6050::dmpPacketAvailable()' member function declared in class 'MPU6050'
+ bool MPU6050::dmpPacketAvailable() {
+                                  ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:680:66: error: no 'uint8_t MPU6050::dmpGetAccel(int32_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetAccel(int32_t *data, const uint8_t* packet) {
+                                                                  ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:688:66: error: no 'uint8_t MPU6050::dmpGetAccel(int16_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetAccel(int16_t *data, const uint8_t* packet) {
+                                                                  ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:696:67: error: no 'uint8_t MPU6050::dmpGetAccel(VectorInt16*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetAccel(VectorInt16 *v, const uint8_t* packet) {
+                                                                   ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:704:71: error: no 'uint8_t MPU6050::dmpGetQuaternion(int32_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetQuaternion(int32_t *data, const uint8_t* packet) {
+                                                                       ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:713:71: error: no 'uint8_t MPU6050::dmpGetQuaternion(int16_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetQuaternion(int16_t *data, const uint8_t* packet) {
+                                                                       ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:722:71: error: no 'uint8_t MPU6050::dmpGetQuaternion(Quaternion*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetQuaternion(Quaternion *q, const uint8_t* packet) {
+                                                                       ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:737:65: error: no 'uint8_t MPU6050::dmpGetGyro(int32_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetGyro(int32_t *data, const uint8_t* packet) {
+                                                                 ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:745:65: error: no 'uint8_t MPU6050::dmpGetGyro(int16_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetGyro(int16_t *data, const uint8_t* packet) {
+                                                                 ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:753:64: error: no 'uint8_t MPU6050::dmpGetMag(int16_t*, const uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetMag(int16_t *data, const uint8_t* packet) {
+                                                                ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:763:91: error: no 'uint8_t MPU6050::dmpGetLinearAccel(VectorInt16*, VectorInt16*, VectorFloat*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetLinearAccel(VectorInt16 *v, VectorInt16 *vRaw, VectorFloat *gravity) {
+                                                                                           ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:771:92: error: no 'uint8_t MPU6050::dmpGetLinearAccelInWorld(VectorInt16*, VectorInt16*, Quaternion*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetLinearAccelInWorld(VectorInt16 *v, VectorInt16 *vReal, Quaternion *q) {
+                                                                                            ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:783:61: error: no 'uint8_t MPU6050::dmpGetGravity(VectorFloat*, Quaternion*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetGravity(VectorFloat *v, Quaternion *q) {
+                                                             ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:794:56: error: no 'uint8_t MPU6050::dmpGetEuler(float*, Quaternion*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetEuler(float *data, Quaternion *q) {
+                                                        ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:800:85: error: no 'uint8_t MPU6050::dmpGetYawPitchRoll(float*, Quaternion*, VectorFloat*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpGetYawPitchRoll(float *data, Quaternion *q, VectorFloat *gravity) {
+                                                                                     ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:813:67: error: no 'uint8_t MPU6050::dmpProcessFIFOPacket(const unsigned char*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpProcessFIFOPacket(const unsigned char *dmpData) {
+                                                                   ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:823:84: error: no 'uint8_t MPU6050::dmpReadAndProcessFIFOPacket(uint8_t, uint8_t*)' member function declared in class 'MPU6050'
+ uint8_t MPU6050::dmpReadAndProcessFIFOPacket(uint8_t numPackets, uint8_t *processed) {
+                                                                                    ^
+C:\Users\PickleRickRT\Documents\Arduino\libraries\MPU6050/MPU6050_9Axis_MotionApps41.h:848:40: error: no 'uint16_t MPU6050::dmpGetFIFOPacketSize()' member function declared in class 'MPU6050'
+ uint16_t MPU6050::dmpGetFIFOPacketSize() {
+                                        ^
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:148:18: error: variable or field 'serialEvent' declared void
+ void serialEvent(Serial port) {
+                  ^~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:148:25: error: expected ')' before 'port'
+ void serialEvent(Serial port) {
+                         ^~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino: In function 'void setup()':
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:205:21: error: 'class MPU6050' has no member named 'dmpInitialize'; did you mean 'initialize'?
+     devStatus = mpu.dmpInitialize();
+                     ^~~~~~~~~~~~~
+                     initialize
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:229:26: error: 'class MPU6050' has no member named 'dmpGetFIFOPacketSize'
+         packetSize = mpu.dmpGetFIFOPacketSize();
+                          ^~~~~~~~~~~~~~~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino: In function 'void loop()':
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:320:17: error: 'class MPU6050' has no member named 'dmpGetQuaternion'
+             mpu.dmpGetQuaternion(&q, fifoBuffer);
+                 ^~~~~~~~~~~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:321:17: error: 'class MPU6050' has no member named 'dmpGetGravity'
+             mpu.dmpGetGravity(&gravity, &q);
+                 ^~~~~~~~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:322:17: error: 'class MPU6050' has no member named 'dmpGetYawPitchRoll'
+             mpu.dmpGetYawPitchRoll(ypr, &q, &gravity);
+                 ^~~~~~~~~~~~~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde: At global scope:
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:35:1: error: 'import' does not name a type; did you mean 'qsort'?
+ import processing.serial.*;
+ ^~~~~~
+ qsort
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:36:1: error: 'import' does not name a type; did you mean 'qsort'?
+ import processing.opengl.*;
+ ^~~~~~
+ qsort
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:37:1: error: 'import' does not name a type; did you mean 'qsort'?
+ import toxi.geom.*;
+ ^~~~~~
+ qsort
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:38:1: error: 'import' does not name a type; did you mean 'qsort'?
+ import toxi.processing.*;
+ ^~~~~~
+ qsort
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:46:1: error: 'ToxiclibsSupport' does not name a type
+ ToxiclibsSupport gfx;
+ ^~~~~~~~~~~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:48:1: error: 'Serial' does not name a type
+ Serial port;                         // The serial port
+ ^~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:49:5: warning: decomposition declaration only available with -std=c++1z or -std=gnu++1z
+ char[] teapotPacket = new char[14];  // InvenSense Teapot packet
+     ^
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:49:5: error: decomposition declaration cannot be declared with type 'char'
+ char[] teapotPacket = new char[14];  // InvenSense Teapot packet
+     ^~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:49:5: note: type must be cv-qualified 'auto' or reference to cv-qualified 'auto'
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:49:5: error: empty decomposition declaration
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:49:8: error: expected initializer before 'teapotPacket'
+ char[] teapotPacket = new char[14];  // InvenSense Teapot packet
+        ^~~~~~~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:55:6: warning: decomposition declaration only available with -std=c++1z or -std=gnu++1z
+ float[] q = new float[4];
+      ^
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:55:6: error: decomposition declaration cannot be declared with type 'float'
+ float[] q = new float[4];
+      ^~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:55:6: note: type must be cv-qualified 'auto' or reference to cv-qualified 'auto'
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:55:6: error: empty decomposition declaration
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:55:9: error: expected initializer before 'q'
+ float[] q = new float[4];
+         ^
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:56:19: error: conversion from 'Quaternion*' to non-scalar type 'Quaternion' requested
+ Quaternion quat = new Quaternion(1, 0, 0, 0);
+                   ^~~~~~~~~~~~~~~~~~~~~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:58:6: warning: decomposition declaration only available with -std=c++1z or -std=gnu++1z
+ float[] gravity = new float[3];
+      ^
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:58:6: error: decomposition declaration cannot be declared with type 'float'
+ float[] gravity = new float[3];
+      ^~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:58:6: note: type must be cv-qualified 'auto' or reference to cv-qualified 'auto'
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:58:6: error: empty decomposition declaration
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:58:9: error: expected initializer before 'gravity'
+ float[] gravity = new float[3];
+         ^~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:59:6: warning: decomposition declaration only available with -std=c++1z or -std=gnu++1z
+ float[] euler = new float[3];
+      ^
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:59:6: error: decomposition declaration cannot be declared with type 'float'
+ float[] euler = new float[3];
+      ^~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:59:6: note: type must be cv-qualified 'auto' or reference to cv-qualified 'auto'
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:59:6: error: empty decomposition declaration
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:59:9: error: expected initializer before 'euler'
+ float[] euler = new float[3];
+         ^~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:60:6: warning: decomposition declaration only available with -std=c++1z or -std=gnu++1z
+ float[] ypr = new float[3];
+      ^
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:60:6: error: decomposition declaration cannot be declared with type 'float'
+ float[] ypr = new float[3];
+      ^~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:60:6: note: type must be cv-qualified 'auto' or reference to cv-qualified 'auto'
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:60:6: error: empty decomposition declaration
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:60:9: error: expected initializer before 'ypr'
+ float[] ypr = new float[3];
+         ^~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde: In function 'void setup()':
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:62:6: error: redefinition of 'void setup()'
+ void setup() {
+      ^~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPU6050_DMP6.ino:168:6: note: 'void setup()' previously defined here
+ void setup() {
+      ^~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:64:20: error: 'OPENGL' was not declared in this scope
+     size(300, 300, OPENGL);
+                    ^~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:64:5: error: 'size' was not declared in this scope
+     size(300, 300, OPENGL);
+     ^~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:64:5: note: suggested alternative: 'Wire'
+     size(300, 300, OPENGL);
+     ^~~~
+     Wire
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:65:5: error: 'gfx' was not declared in this scope
+     gfx = new ToxiclibsSupport(this);
+     ^~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:65:15: error: expected type-specifier before 'ToxiclibsSupport'
+     gfx = new ToxiclibsSupport(this);
+               ^~~~~~~~~~~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:68:5: error: 'lights' was not declared in this scope
+     lights();
+     ^~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:68:5: note: suggested alternative: 'gets'
+     lights();
+     ^~~~~~
+     gets
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:69:5: error: 'smooth' was not declared in this scope
+     smooth();
+     ^~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:69:5: note: suggested alternative: 'short'
+     smooth();
+     ^~~~~~
+     short
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:72:20: error: 'class HardwareSerial' has no member named 'list'
+     println(Serial.list());
+                    ^~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:72:5: error: 'println' was not declared in this scope
+     println(Serial.list());
+     ^~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:72:5: note: suggested alternative: 'printf'
+     println(Serial.list());
+     ^~~~~~~
+     printf
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:81:5: error: 'port' was not declared in this scope
+     port = new Serial(this, portName, 115200);
+     ^~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:81:5: note: suggested alternative: 'word'
+     port = new Serial(this, portName, 115200);
+     ^~~~
+     word
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:81:16: error: expected type-specifier before 'Serial'
+     port = new Serial(this, portName, 115200);
+                ^~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde: In function 'void draw()':
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:92:9: error: 'port' was not declared in this scope
+         port.write('r');
+         ^~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:92:9: note: suggested alternative: 'word'
+         port.write('r');
+         ^~~~
+         word
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:97:5: error: 'background' was not declared in this scope
+     background(0);
+     ^~~~~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:97:5: note: suggested alternative: 'round'
+     background(0);
+     ^~~~~~~~~~
+     round
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:100:5: error: 'pushMatrix' was not declared in this scope
+     pushMatrix();
+     ^~~~~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:101:15: error: 'width' was not declared in this scope
+     translate(width / 2, height / 2);
+               ^~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:101:26: error: 'height' was not declared in this scope
+     translate(width / 2, height / 2);
+                          ^~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:101:5: error: 'translate' was not declared in this scope
+     translate(width / 2, height / 2);
+     ^~~~~~~~~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:113:10: warning: decomposition declaration only available with -std=c++1z or -std=gnu++1z
+     float[] axis = quat.toAxisAngle();
+          ^
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:113:10: error: decomposition declaration cannot be declared with type 'float'
+     float[] axis = quat.toAxisAngle();
+          ^~
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:113:10: note: type must be cv-qualified 'auto' or reference to cv-qualified 'auto'
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:113:10: error: empty decomposition declaration
+C:\Users\PickleRickRT\Desktop\testCentraleInertielle\MPU6050_DMP6\MPUTeapot.pde:113:13: error: expected initializer before 'axis'
