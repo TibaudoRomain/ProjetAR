@@ -19,7 +19,7 @@ Cependant en posant la centrale inertielle à plat comme sur cette image :
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/f9c70966-0f35-4380-a7ca-f814cb1a8364)
 
-J'obtiens ces résultats : 
+La centrale inertielle arrive à calibrer son accélération et j'obtiens ces résultats : 
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/ad9f7ce9-f30f-4ddc-a623-846c1cf91a9a)
 
