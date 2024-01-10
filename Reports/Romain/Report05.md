@@ -11,6 +11,16 @@ J'ai tout d'abord changé le branchement de la centrale inertielle comme ceci :
 
 Cependant, avant de faire marcher le code j'ai du résoudre plusieurs problème. Le premier était que l'IDE n'arrivait pas à upload le code sur la carte arduino, après avoir réinstallé le driver ch340 et redémarré mon pc plusieurs fois, le problème s'est résolu. Un autre problème que j'ai rencontré est un problème avec certaines libraries, en effet le programme exemple de l'IDE a besoin d'une library appelée Toxiclibs que je n'ai pas pu trouvé. C'est aussi pour cela que j'ai utilisé un autre programme.
 
-Ces problèmes résolus, j'ai enfin pu testé la centrale inertielle voici les résultats :
+Ces problèmes résolus, un autre est survenu, la centrale inertielle n'arrive pas à calibrer son accélération.
+
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/ef70a0e7-3cc7-4002-90c0-372653f189ea)
+
+Cependant en posant la centrale inertielle à plat comme sur cette image :
+
+
+
+J'obtiens ces résultats : 
+
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/ad9f7ce9-f30f-4ddc-a623-846c1cf91a9a)
 
 
