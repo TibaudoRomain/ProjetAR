@@ -5,6 +5,7 @@ Pour ce faire j'ai du la rendre accessible via bureau à distance ce qui a néc�
 
 Aprés avoir installé xrdp, il me suffit d'ouvrir l'application nommée "Connexion bureau à distance sur mon pc portable" et de rentrer l'IP et le nom de la carte.
 
+
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/bedc098d-1529-4034-a1ec-1ca174b5e058)
 
 Enfin j'ai pu accéder à la carte nvidia depuis mon pc portable me permettant ainsi d'utiliser la jetson sans clavier ou écran supplémentaires.
