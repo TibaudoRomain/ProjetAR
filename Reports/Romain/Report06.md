@@ -12,4 +12,9 @@ Enfin j'ai pu accéder à la carte nvidia depuis mon pc portable me permettant a
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/c3ac95ca-56ae-4e44-a823-84fd06194372)
 
+Cependant il reste quelques problèmes liés à cette méthode d'accés notamment un long temps de réponse de la jetson aux "imput" de mon pc portable.
 
+## Objectif pour les prochaines scéances :
+- Corriger les problèmes d'accés à la jetson
+- Etablir une communication entre la jetson et la carte arduino uno
+- Coder un asservissement sur l'angle du robot grâce à la centrale inertielle
