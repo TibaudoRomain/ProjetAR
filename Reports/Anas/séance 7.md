@@ -9,3 +9,8 @@ La structure sera ensuite revêtue de mesh qui sera à la fois flexible et robus
 
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAqO8LA2A9zumCGf0f4IE75NDfcoDqR07707WatFfFB_4PIlxgKxKXez4ZQWlV5Q2RrI&usqp=CAU)
+
+Suite à cela, j'ai passé commande pour les matériaux nécessaires à la construction du robot. Une fois la livraison arrivé, nous allons monter le robot afin de faire des tests dans l eau.
+
+Objectif de la séance prochaine : 
+-	contruire la structure en bois.
