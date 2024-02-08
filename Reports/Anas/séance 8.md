@@ -11,6 +11,8 @@ Ensuite, je suis passé à l'assemblage des poutres en bois afin de former la ba
 
 Une fois la colle sèche, je suis passé au perçage de trous dans les poutres afin de les visser ensemble et d'éviter tout risque d'effondrement de la structure en bois.
 ![](https://github.com/TibaudoRomain/ProjetAR/blob/main/Reports/Anas/Images/20240207_165450.jpg?raw=true)
+
+
 Objectif de la séance prochaine : 
 -	remettre une couche de colle , et revetire la strucutre de mesh.
 
