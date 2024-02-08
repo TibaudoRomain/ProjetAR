@@ -8,4 +8,4 @@ En conséquence, j'ai entrepris de remodeliser la coque extérieure pour s'adapt
 La structure sera ensuite revêtue de mesh qui sera à la fois flexible et robuste.
 
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAqO8LA2A9zumCGf0f4IE75NDfcoDqR07707WatFfFB_4PIlxgKxKXez4ZQWlV5Q2RrI&usqp=CAU)
+                           ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAqO8LA2A9zumCGf0f4IE75NDfcoDqR07707WatFfFB_4PIlxgKxKXez4ZQWlV5Q2RrI&usqp=CAU)
