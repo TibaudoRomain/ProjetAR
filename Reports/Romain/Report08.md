@@ -15,4 +15,8 @@ De plus je ne pouvais pas mettre l'image telle qu'elle dans la clé USB et j'ai 
 
 Cependant compresser l'image était une erreur car après l'avoir flashée et lancé sur la jetson nano, je me suis rendu compte que compresser l'image la rend inutilisable, j'ai donc du me remettre à télécharger l'image. Puis n'ayant pas le temps de finir l'installation j'ai décidé de récupérer le matèriel pour pouvoir la faire chez moi et j'attends maintenant la fin du téléchargement.
 
+## Objectifs pour les prochaines scéances :
+D'ici la prochaine scéance j'aurais fini l'installation, les objectifs seront donc les mêmes qu'à la scéance précédente :
+- S'assurer que la communication a bien été établie
+- Ecrire et tester le programme pour stabiliser le robot
 
