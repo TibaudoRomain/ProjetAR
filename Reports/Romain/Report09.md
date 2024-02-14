@@ -5,7 +5,10 @@ J'ai commencé la séance en réinstallant arduino ide sur la jetson nano. J'ai 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/4e3ca9d9-423c-4296-a648-13979ce71972)
 
 J'ai ensuite passé une partie de la séance à chercher une solution, cependant les solutions que j'ai trouvées et essayées ne fonctionnaient pas.
-J'ai donc décidé de travailler sur le PID me permettant de créer un asservissement sur la position angulaire du Seamoth et j'ai donc programmé un PID agissant sur les angles Yaw/Pitch/Roll (programme dans le dossier correspondant). 
+J'ai donc décidé de travailler sur le PID me permettant de créer un asservissement sur la position angulaire du Seamoth et j'ai donc programmé un PID agissant sur les angles Yaw/Pitch/Roll (programme dans le dossier correspondant). Voici le schéma de l'asservissement qui va être utilisé pour pouvoir contrôler précisémment le robot.
+
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/fef88e9f-7156-48f2-81c9-8c514c584a90)
+
 
 ## Objectifs pour les prochaines scéances :
 - Faire un programme permettant de traduire la consigne angulaire donnée par le PID de la centrale inertielle en consigne de vitesse
