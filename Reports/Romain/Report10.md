@@ -5,8 +5,7 @@ et qui donne une vitesse aux moteurs correspondants en fonction de la différenc
 Ensuite, j'ai réparé et testé mon programme pour donné une vitesse aux différents moteurs en effet j'ai remarqué que les ESC étaient mal initialisés.
 Enfin j'ai pu programmé notre sonar qui servirra à l'évitement d'obstacle. 
 
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/718639cb-103a-44f4-9b9b-4c2c06ba3655)
-
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/9b1f6b4b-218a-49f8-b893-70c3400e0d66)
 
 Pour l'instant je me contente de récupérer la distance sans l'utiliser. J'ai commencé par faire le montage : 
 
