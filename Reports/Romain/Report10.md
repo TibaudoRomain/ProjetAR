@@ -3,7 +3,12 @@
 J'ai commencé la séance en codant un programme qui fait varier la vitesse des moteur en fonction de l'angle du robot. Pour cela, j'ai simplement créer une fonction qui prend en paramètre la sortie du PID (une position angulaire, 3 angles)
 et qui donne une vitesse aux moteurs correspondants en fonction de la différence entre les angles de en consignes et les angles données par la centrale inertielle.
 Ensuite, j'ai réparé et testé mon programme pour donné une vitesse aux différents moteurs en effet j'ai remarqué que les ESC étaient mal initialisés.
-Enfin j'ai pu programmé notre sonar qui servirra à l'évitement d'obstacle. Pour l'instant je me contente de récupérer la distance sans l'utiliser. J'ai commencé par faire le montage : 
+Enfin j'ai pu programmé notre sonar qui servirra à l'évitement d'obstacle. 
+
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/718639cb-103a-44f4-9b9b-4c2c06ba3655)
+
+
+Pour l'instant je me contente de récupérer la distance sans l'utiliser. J'ai commencé par faire le montage : 
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/1fb9f6f2-53c9-432f-9c77-483f826ec9c4)
 
