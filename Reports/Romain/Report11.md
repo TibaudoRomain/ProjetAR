@@ -17,7 +17,9 @@ J'ai donc mesuré la différence de distance entre la réalité et ce que mon pr
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/80fafc83-caf7-4421-ac6e-676069d25e08)
 
+J'ai aussi pu remarquer un autre problème, pour des distances en dessous de 28cm le sonnar ne me renvoie que des valeurs autours de 25cm, même si la distance est de 5cm.
 
 ## Objectifs pour les prochaines scéances :
+- Régler le problème de mesure à courtes distances du sonnar
 - Faire un programme permettant au robot de se déplacer
 - Programmer l'évitement d'obstacles
