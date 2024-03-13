@@ -9,10 +9,11 @@ Ensuite, j'ai testé le sonnar sous l'eau en remplissant une boite d'eau.
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/bbc2f4ea-23b9-41a6-a3ae-a38b474d7573)
 
 Cependant malgrés le fait que la distance soit supèrieur à 20cm les mesures étaient inconssistantes, en effet peu importe à quel point j'écartais le sonnar de l'obstacle la distance restait à environ 80cm. J'ai ensuite regardé la datasheet qui m'a indiqué que le sonnar est prévu pour fonctionner sur une portée de 20 à 600cm. Or le son se déplace 4 fois plus vite dans l'eau que dans l'air donc une distance de 80cm serait logique.
-J'ai ensuite essayé de tester le capteur pour une distance plus longue.
+J'ai ensuite essayé de tester le capteur pour une distance plus longue. 
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/14af167a-bfdb-43d0-a666-dfacb8b839b0)
 
+Ensuite j'ai aidé mon coéquipier à assembler une partie de la structure.
 
 ## Objectifs pour les prochaines scéances :
 - Régler le problème de mesure à courtes distances du sonnar
