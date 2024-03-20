@@ -1,4 +1,4 @@
-# **Séance 11 - 06/03/2024**
+# **Séance 13 - 20/03/2024**
 ## Travail réalisé :
 J'ai commencé la séance en imprimant en 3d des supports pour les moteurs qui manquait pour finir la structure externe du robot (externe au cylindre waterproof). 
 
