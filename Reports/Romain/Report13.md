@@ -16,6 +16,9 @@ Ensuite j'ai rassemblé mes programmes pour qu'ils puissent interragir entre eux
 
 Enfin, j'ai commencé à créer le modèle 3d du support pour l'électronique à l'intérieur du cylindre waterproof.
 
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/07f3a782-b636-4abf-95e8-c61a083c7c9b)
+
+
 ## Objectifs pour les prochaines scéances :
 - Imprimer le support
 - Paufiner le PID
