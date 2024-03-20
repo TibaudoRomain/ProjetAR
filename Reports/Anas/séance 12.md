@@ -1,7 +1,7 @@
 # **Séance 12**
 ## *12-3-2024* 
 
-## Travail réalisé :*
+## Travail réalisé :
 Pendant cette séance, j'ai relancé l'impression des fixations pour moteur qui n'avait pas abouti. Pendant que les impressions se terminaient, je me suis mis à monter la structure du robot. J'ai donc découpé toutes les pièces de bois à l'aide de la découpeuse laser et collé le tout avec de la colle à bois afin d'avoir une structure solide.
 
 ![](https://github.com/TibaudoRomain/ProjetAR/blob/main/Reports/Anas/Images/WhatsApp%20Image%202024-03-19%20at%2007.57.59%20(1).jpeg?raw=true)
