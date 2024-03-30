@@ -12,18 +12,9 @@ Ensuite, j'ai modélisé l'attache du bas pour le support. Cette attache va perm
 Cependant, pour pouvoir avoir les mesures me permettant de modéliser une attache aux bonnes dimensions j'ai du créer plusieurs disques avec la découpeuse laser et tester si ils s'insèraient bien dans le joint.
 J'ai enfin pu commencer à créer un programme pour contrôler les moteur avec mon téléphone. Je n'ai besoin que de controler les moteurs horizontaux car les autres vont, pour l'instant, ne servir qu'à la stabilisation du robot.
 
-Ensuite, après avoir décidé de changer de sonnar, je me suis mis à chercher les capteurs qui nous manquaient, notament un PH-mètre et un capteur de pression. Voici ce que j'ai trouvé : 
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/be23eef5-491e-4650-b3c3-66c0a1e902da)
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/282c95c1-2152-4044-8b24-29195edf3ec5)
-
-Ensuite j'ai rassemblé mes programmes pour qu'ils puissent interragir entre eux. Pour l'instant le code n'est tourné que par l'arduino mega.
-
-Enfin, j'ai commencé à créer le modèle 3d du support pour l'électronique à l'intérieur du cylindre waterproof.
-
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/07f3a782-b636-4abf-95e8-c61a083c7c9b)
-
-
 ## Objectifs pour les prochaines scéances :
+- Assembler électronique du robot
 - Imprimer le support
-- Paufiner le PID
+- Améliorer le PID
+
 
