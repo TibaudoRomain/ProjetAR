@@ -14,6 +14,7 @@ Ensuite, j'ai modélisé l'attache du bas pour le support. Cette attache doit pe
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/1de74fe7-b5a4-4e25-9895-76ff4ba580af)
 
 Cependant, pour pouvoir avoir les mesures me permettant de modéliser une attache aux bonnes dimensions j'ai du créer plusieurs disques avec la découpeuse laser et tester si ils s'insèraient bien dans le joint.
+
 J'ai enfin pu commencer à créer un programme pour contrôler les moteur avec mon téléphone. Je n'ai besoin que de controler les moteurs horizontaux car les autres vont, pour l'instant, ne servir qu'à la stabilisation du robot.
 
 ## Objectifs pour les prochaines scéances :
