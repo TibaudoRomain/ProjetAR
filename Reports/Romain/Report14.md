@@ -7,9 +7,10 @@ J'ai commencé la séance en modélisant le cylindre pour pouvoir modéliser le 
 Ensuite, j'ai modélisé l'attache du bas pour le support. Cette attache va permettre au support de ne pas bougé à l'intèrieur du cylindre et sera monté sérré sur le joint en bas du cylindre.
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/ec419315-12af-46a1-bb58-d735a8a400c2)
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/a01484d5-bcaf-41e7-b1df-8f0f6738233d)
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/96e17a74-27e9-4537-9a87-2f1d03b45736)
 
-Cependant, pour pouvoir avoir les mesures me permettant de modéliser une attache aux bonnes dimensions j'ai du créer plusieurs disques avec la découpeuse laser et tester si ils s'insèraient bien dans le joint 
+Cependant, pour pouvoir avoir les mesures me permettant de modéliser une attache aux bonnes dimensions j'ai du créer plusieurs disques avec la découpeuse laser et tester si ils s'insèraient bien dans le joint.
+J'ai enfin pu commencer à créer un programme pour contrôler les moteur avec mon téléphone. Je n'ai besoin que de controler les moteurs horizontaux car les autres vont, pour l'instant, ne servir qu'à la stabilisation du robot.
 
 Ensuite, après avoir décidé de changer de sonnar, je me suis mis à chercher les capteurs qui nous manquaient, notament un PH-mètre et un capteur de pression. Voici ce que j'ai trouvé : 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/be23eef5-491e-4650-b3c3-66c0a1e902da)
