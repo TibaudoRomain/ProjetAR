@@ -18,7 +18,7 @@ Cependant, pour pouvoir obtenir les mesures nécessaires afin de modéliser une 
 J'ai enfin pu commencer à créer un programme pour contrôler les moteurs avec mon téléphone. Je n'ai besoin que de contrôler les moteurs horizontaux car les autres vont, pour l'instant, servir uniquement à la stabilisation du robot.
 
 ## Objectifs pour les prochaines scéances :
-- Assembler électronique du robot
+- Assembler l'électronique du robot
 - Imprimer le support
 - Améliorer le PID
 
