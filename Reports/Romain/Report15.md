@@ -11,6 +11,8 @@ Puis j'ai imprimé la partie haute du modèle et découpé une plaque en bois po
 Ensuite, j'ai travaillé sur le contrôle des moteurs via bluetooth pour pouvoir présenter leur fonctionement plus facilement.
 
 Enfin j'ai complété le programme qui servira à contrôler les moteurs avec la arduino mega.
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/1eb93c28-dceb-4816-9bdd-90ffdd40c8e7)
+
 
 ## Objectifs pour les prochaines scéances :
 - Assembler l'électronique du robot
