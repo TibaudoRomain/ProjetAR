@@ -9,7 +9,6 @@ Puis j'ai imprimé la partie haute du modèle et découpé une plaque en bois po
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/bfb09699-c7c9-49b9-9360-5ddcf83cae9a)
 
 Ensuite, j'ai travaillé sur le contrôle des moteurs via bluetooth pour pouvoir présenter leur fonctionement plus facilement.
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/4f0eecff-71fd-45b1-819f-313fd3c914ad)
 
 Enfin j'ai complété le programme qui servira à contrôler les moteurs avec la arduino mega.
 
