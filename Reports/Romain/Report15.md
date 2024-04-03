@@ -8,11 +8,13 @@ Puis j'ai imprimé la partie haute du modèle et découpé une plaque en bois po
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/bfb09699-c7c9-49b9-9360-5ddcf83cae9a)
 
+J'ai aussi modéliser en 3d la plaque qui servira au support des cartes, de la batterie et des ESC 
+
 Ensuite, j'ai travaillé sur le contrôle des moteurs via bluetooth pour pouvoir présenter leur fonctionement plus facilement.
 
 Enfin j'ai complété le programme qui servira à contrôler les moteurs avec la arduino mega.
 
 ## Objectifs pour les prochaines scéances :
-- Assembler l'électronique du robot
-- Imprimer le support
-- Améliorer le PID
+- Créer un boitier qui permettra d'attacher les ESC et la batterie à la plaque
+- Imprimer les supports de la plaque
+- Découper la plaque et assembler la structure interne au cylindre
