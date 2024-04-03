@@ -8,7 +8,9 @@ Puis j'ai imprimé la partie haute du modèle et découpé une plaque en bois po
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/bfb09699-c7c9-49b9-9360-5ddcf83cae9a)
 
-J'ai aussi modéliser en 3d la plaque qui servira au support des cartes, de la batterie et des ESC 
+J'ai aussi modéliser en 3d la plaque qui servira au support des cartes, de la batterie et des ESC.
+
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/8f17c0ed-0ade-4758-a00f-c076c1996cb8)
 
 Ensuite, j'ai travaillé sur le contrôle des moteurs via bluetooth pour pouvoir présenter leur fonctionement plus facilement.
 
