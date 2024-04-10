@@ -12,15 +12,10 @@ J'ai ensuite modélisé un nouveau support plus solide pour les moteurs horizont
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/f081ae00-2d5a-413b-9e80-938210fcaa2e)
 
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/bfb09699-c7c9-49b9-9360-5ddcf83cae9a)
+Enfin j'ai modélisé une plaque pour attacher les supports à la structure du robot. J'ai utilisé la découpeuse laser pour créer la pièce.
 
-J'ai aussi modéliser en 3d la plaque qui servira au support des cartes, de la batterie et des ESC.
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/c0a1d87d-0481-46e9-8374-c15a06f577f7)
 
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/8f17c0ed-0ade-4758-a00f-c076c1996cb8)
-
-Ensuite, j'ai travaillé sur le contrôle des moteurs via bluetooth pour pouvoir présenter leur fonctionement plus facilement.
-
-Enfin j'ai complété le programme qui servira à contrôler les moteurs avec la arduino mega.
 
 ## Objectifs pour les prochaines scéances :
 - Créer un boitier qui permettra d'attacher les ESC et la batterie à la plaque
