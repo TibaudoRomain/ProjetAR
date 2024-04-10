@@ -14,7 +14,7 @@ J'ai ensuite modélisé un nouveau support plus solide pour les moteurs horizont
 
 Enfin j'ai modélisé une plaque pour attacher les supports à la structure du robot. J'ai utilisé la découpeuse laser pour créer la pièce.
 
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/c0a1d87d-0481-46e9-8374-c15a06f577f7)
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/2f3268e3-60f0-40bb-a75a-814e1b988fa5)
 
 
 ## Objectifs pour les prochaines scéances :
