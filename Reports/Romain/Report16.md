@@ -19,5 +19,4 @@ Enfin j'ai modélisé une plaque pour attacher les supports à la structure du r
 
 ## Objectifs pour les prochaines scéances :
 - Créer un boitier qui permettra d'attacher les ESC et la batterie à la plaque
-- Imprimer les supports de la plaque
 - Découper la plaque et assembler la structure interne au cylindre
