@@ -29,3 +29,5 @@ J'ai enfin modifié un peu les modèles 3d et lancé l'impression d'une partie.
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/08a9dabf-899e-40b2-b09b-abd48476ae52)
 
+## Objectifs pour les prochaines scéances :
+- Découper la plaque qui supporterra l'électronique du robot et assembler la structure interne au cylindre
