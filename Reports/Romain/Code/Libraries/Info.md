@@ -1,4 +1,4 @@
-# Projet Informatique - IA
+# Projet Informatique - Tibaudo Romain et Malhouq Anas
 
 ## Utilisation du modèle de NVIDIA pour la détection du nombre de doigts :
 
