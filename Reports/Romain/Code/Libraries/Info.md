@@ -1,3 +1,5 @@
+# Projet Informatique - IA
+
 ## Utilisation du modèle de NVIDIA pour la détection du nombre de doigts :
 
 ### Contexte initial : 
@@ -10,7 +12,7 @@ Ce modèle de détection de doigts constitue une ressource importante pour notre
 
 ### Problèmes rencontrés lors de l'entraînement :
 
-Malgré ses fonctionnalités, nous avons rencontré des problèmes lors de l'entraînement du modèle.
+Malgrés ses fonctionnalités, nous avons rencontré des problèmes lors de l'entraînement du modèle.
 
 
 ## Répétition de l'entraînement :
