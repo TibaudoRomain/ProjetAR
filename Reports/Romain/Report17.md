@@ -7,11 +7,10 @@ J'ai commencé la séance par l'assemblage du support des nouveaux moteur, pour 
 Ensuite, sur les conseils de M.Peter, j'ai changé le design de la structure interne, pour créer une glissière qui permettra d'insérer les composant plus facilement tout en sauvegardant de la place. Voici les modèles 3d que j'ai modéliser pour créer cette glissière.
 
 Les supports de la glissière :
+
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/ea9ef542-087b-4f4d-94a5-3c1a767eae95)
 
 La glissière :
-
-
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/f13a8de6-16a6-4962-81e2-42dea756c4ee)
 
 Enfin, j'ai cherché un moyen de fixer les ESC au support interne, ce qui est plus compliqué que de fixer le reste des composants car il n'y a pas de points d'attache et la surface est irrégulière.
