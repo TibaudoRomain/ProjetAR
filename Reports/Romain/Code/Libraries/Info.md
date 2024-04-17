@@ -1,21 +1,20 @@
-# Tibaudo Romain et Malhouq Anas - Projet Informatique - 
+# Tibaudo Romain et Malhouq Anas - Projet Informatique - Détection du nombre de doigts 
 
-## Utilisation du modèle de NVIDIA pour la détection du nombre de doigts :
+
+## Introduction
 
 ### Contexte initial : 
 
-Nous avons utilisé le modèle de détection de doigts de NVIDIA fourni avec le Docker.
+Nous avons entrainé à la détection de doigts le modèle de NVIDIA fourni avec le Docker pour envoyer sa prédiction vers l'arduino qui se charge de l'afficher sur un écran LCD. 
 
 ### Fonctionnalité du modèle : 
 
 Ce modèle de détection de doigts constitue une ressource importante pour notre projet, permettant d'identifier et de suivre les doigts dans des scènes vidéo néanmoins, Il reste peu précis et nécessite beaucoup d'entraînement.
 
-### Problèmes rencontrés lors de l'entraînement :
 
-Malgrés ses fonctionnalités, nous avons rencontré des problèmes lors de l'entraînement du modèle.
+## Problèmes rencontrés lors de l'entraînement :
 
-
-## Répétition de l'entraînement :
+Malgrés ses fonctionnalités, nous avons rencontré des problèmes lors de l'entraînement du modèle, comme la lenteur du training ainsi que son imprécision.
 
 ### Tentatives répétées d'entraînement : 
 
@@ -41,3 +40,16 @@ En parallèle des problèmes d'entraînement, nous avons rencontré des difficul
 Nous avons également rencontré des obstacles dans l'installation de la librairie SMBus.
 
 Ces difficultés soulignent l'importance de résoudre les problèmes techniques rencontrés lors de l'entraînement du modèle de détection de doigts, ainsi que de garantir une communication fluide avec les périphériques matériels nécessaires à son fonctionnement.
+
+### Difficultés avec le programme master
+
+Nous avons rencontrés des difficultés à récupérer la prédiction du modèle ainsi qu'à l'envoyer vers l'arduino avec la librairie SMBus
+
+## Code Arduino
+
+En pièce jointe commenté
+
+
+##Schéma électrique 
+
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/b019c128-8cec-4bc2-91cd-29b02657eb2c)
