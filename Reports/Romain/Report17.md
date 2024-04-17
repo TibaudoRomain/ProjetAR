@@ -10,8 +10,22 @@ Les supports de la glissière :
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/ea9ef542-087b-4f4d-94a5-3c1a767eae95)
 
 La glissière :
+
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/f13a8de6-16a6-4962-81e2-42dea756c4ee)
 
 Enfin, j'ai cherché un moyen de fixer les ESC au support interne, ce qui est plus compliqué que de fixer le reste des composants car il n'y a pas de points d'attache et la surface est irrégulière.
 
 ![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/ac6901ce-8a7b-4fc9-a6e9-9a9cb895df0d)
+
+J'ai opté pour une atache par les bords des ESC, ce qui sera plus rapide que de faire un boitier. J'ai commencé par faire un prototype à la découpeuse laser qui a malheureusemant cassé.
+
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/cae3fd74-b4a8-418e-a802-626db5851a31)
+
+Cependant il demeurait assez intègre pour le tester sur les ESC :
+
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/3e988b6c-771e-4371-ba29-1648192247ab)
+
+J'ai enfin modifié un peu les modèles 3d et lancé l'impression d'une partie. 
+
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/08a9dabf-899e-40b2-b09b-abd48476ae52)
+
