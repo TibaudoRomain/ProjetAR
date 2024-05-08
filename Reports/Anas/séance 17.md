@@ -2,12 +2,10 @@
 ## *07-05-2024* 
 ## Travail réalisé : 
 
-lors de cette séance j ai commencer par deballer les capteurs de temperature, de pression et le ph qu'on avait recu, j ai effectuer quelque soudure sur le capteure de pression, j ai ensuite proceder a la disposition de toute notre elctronique sur la piece en bois qui sert de support, j ai donc pris plein de mesure, et fait des tracé afin d optimiser l espace a l interieure de notre tube, j ai ensuite percer tous les troue qui serviront a fixer les cartes , les ecs , les shields et la batterie, et j ai ensuite fixer l'electronique a sa place.
-
+Lors de cette séance, j'ai commencé par déballer les capteurs de température, de pression et le pH que nous avions reçus. J'ai effectué quelques soudures sur le capteur de pression. Ensuite, j'ai procédé à la disposition de toute notre électronique sur la pièce en bois qui sert de support. J'ai donc pris plusieurs mesures et fait des tracés afin d'optimiser l'espace à l'intérieur de notre tube. Ensuite, j'ai percé tous les trous qui serviront à fixer les cartes, les ECS, les shields et la batterie, puis j'ai fixé l'électronique à sa place.
 ![](https://github.com/TibaudoRomain/ProjetAR/blob/main/Reports/Anas/Images/WhatsApp%20Image%202024-05-08%20%C3%A0%2016.44.29_d7d7ad65.jpg?raw=true)
 
-
-
+Ensuite, j'ai écrit un code afin de pouvoir lire les valeurs du capteur de température et du pH mètre sur la carte Jetson. J'ai trouvé une bibliothèque Python, Jetson.GPIO, qui permet de contrôler les broches GPIO de la carte Jetson. Cependant, les broches GPIO de la Jetson ne sont pas analogiques et donc ne peuvent pas traiter les données du capteur de température et du pH mètre. J'ai donc opté pour la carte Arduino pour ces capteurs-là.
 
 
 
