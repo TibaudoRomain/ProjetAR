@@ -1,33 +1,25 @@
 # **Séance 18 - 09/05/2024**
 ## Travail réalisé :
-J'ai commencé la séance par l'assemblage du support des nouveaux moteur, pour cela j'ai vissé à la structure que j'ai préalablement percée, la plaque en plexiglass et les supports moteurs fabriqués pendant la dernière séance. Ces nouveaux supports sont bien plus solides et permettront de tenir fermement les moteurs horizontaux. Voici à quoi la structure ressemble maintenant :
+J'ai commencé la séance par travailler sur le code des nouveaux capteurs que sont le ph-mètre et le capteur de pression.
 
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/2997f6d8-541d-4d32-99df-fb51363b0285)
+![1715248162018](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/ca0c67b8-b216-409a-98f1-99671ba1509d)
 
-Ensuite, sur les conseils de M.Peter, j'ai changé le design de la structure interne, pour créer une glissière qui permettra d'insérer les composant plus facilement tout en sauvegardant de la place. Voici les modèles 3d que j'ai modéliser pour créer cette glissière.
+Ensuite, j'ai travaillé sur l'emplacement des composant sur la plaque à l'intèrieur du cylindre.
 
-Les supports de la glissière :
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/a1764ee5-2316-46ce-855b-c08531e1ddef)
 
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/ea9ef542-087b-4f4d-94a5-3c1a767eae95)
+Puis, j'ai imprimé plus de supports pour les ESC.
 
-La glissière :
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/f13a8de6-16a6-4962-81e2-42dea756c4ee)
+![1715248162013](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/e338c3b7-f256-417d-9dba-c390eca64962)
 
-Enfin, j'ai cherché un moyen de fixer les ESC au support interne, ce qui est plus compliqué que de fixer le reste des composants car il n'y a pas de points d'attache et la surface est irrégulière.
+Ensuite, pour réduire la place que prendra la caméra, j'ai aidé Anas à démonté la caméra logitech. Pour ce faire, on a du détâcher puis découper un des câbles pour ensuite le ressouder au circuit imprimé.
 
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/ac6901ce-8a7b-4fc9-a6e9-9a9cb895df0d)
+![1715248162009](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/2c1177be-e7f5-42b6-bec8-06958bbb82be)
 
-J'ai opté pour une atache par les bords des ESC, ce qui sera plus rapide que de faire un boitier. J'ai commencé par faire un prototype à la découpeuse laser qui a malheureusemant cassé.
+Enfin, j'ai fais le modèle pour la découpe laser de la plaque qui supporterra l'électronique.
 
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/cae3fd74-b4a8-418e-a802-626db5851a31)
-
-Cependant il demeurait assez intègre pour le tester sur les ESC :
-
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/3e988b6c-771e-4371-ba29-1648192247ab)
-
-J'ai enfin modifié un peu les modèles 3d et lancé l'impression d'une partie. 
-
-![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/08a9dabf-899e-40b2-b09b-abd48476ae52)
+![image](https://github.com/TibaudoRomain/ProjetAR/assets/146826729/cdc7ae46-f716-41e7-8592-40668eaff61f)
 
 ## Objectifs pour les prochaines scéances :
-- Découper la plaque qui supporterra l'électronique du robot et assembler la structure interne au cylindre
+- Terminer l'assemblage du robot
+- Tester le code en situation
